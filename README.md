@@ -7,8 +7,9 @@ This project is something simple that you can check out, run, and use to experim
 Install dependencies:
 
     npm install
+    bower install
 
-Start the project running:
+Start the project:
 
     grunt serve
 
